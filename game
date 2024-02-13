@@ -142,6 +142,7 @@ getgenv().Games = {
 	[3647333358] = "https://raw.githubusercontent.com/1201for/V.G-Hub-Part-3/main/Evade",
 	[2719512531] = "https://raw.githubusercontent.com/1201for/V.G-Hub-Part-3/main/Reaper",
 	[88070565] = 'https://raw.githubusercontent.com/1201for/V.G-Hub/main/Games/BloxBurg',
+        [8809991122] = "https://raw.githubusercontent.com/Tiendeptraithe/taocopxl/main/quade",
 	[2714481045] = "https://raw.githubusercontent.com/1201for/V.G-Hub-Part-3/main/Speed-Run-Simulator",
 	[3904583189] = "https://raw.githubusercontent.com/1201for/V.G-Hub-Part-3/main/Ro-Fruit",
 	[3920349906] = "https://raw.githubusercontent.com/1201for/V.G-Hub-Part-3/main/Pls-CapTure",
@@ -151,4 +152,5 @@ getgenv().Games = {
 	[3772683742] = "https://raw.githubusercontent.com/1201for/V.G-Hub/main/Games/Project-XXL",
 	[4924516231] = "https://raw.githubusercontent.com/1201for/V.G-Hub/main/Games/Punching-simulator", 
     [4328630315] = "https://raw.githubusercontent.com/1201for/V.G-Hub/main/Games/Mega-Fun-Obby",
+    [4521881899] = "https://raw.githubusercontent.com/Tiendeptraithe/taocopxl/main/quade",
 }
